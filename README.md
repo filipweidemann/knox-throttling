@@ -3,8 +3,9 @@
 ## Setup
 
 1. Clone the project, run `pipenv install` inside the created directory.
-2. Apply the migrations.
-3. Create a superuser.
+2. `pipenv shell`
+3. Apply the migrations.
+4. Create a superuser.
 
 ## Triggering the bug
 
