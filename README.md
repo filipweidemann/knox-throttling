@@ -15,3 +15,4 @@
 
 For reference, go to `your_host:port/api/throttled` and just refresh a few times to see expected throttling behaviour.
 
+Note: For testing purposes I set the `anon` rate to `1/min`.
